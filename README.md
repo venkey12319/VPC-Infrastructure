@@ -1,4 +1,4 @@
-# VPC-Infrastructure to deploy python application with docker 
+# VPC-Infrastructure to deploy Python application with docker 
 
 
 Create VPC Infrastructure Deployment with Terraform.
